@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "142387082904a5ef3e12d4c0c31af321",
+  "404.html": "0a27a4163254fc8fce870c8cc3a3f94f",
+"assets/AssetManifest.json": "142387082904a5ef3e12d4c0c31af321",
 "assets/assets/fonts/Raleway/Raleway-Bold.ttf": "7802d8b27fcb19893ce6b38c0789268e",
 "assets/assets/fonts/Raleway/Raleway-Medium.ttf": "2ec8557460d3a2cd7340b16ac84fce32",
 "assets/assets/fonts/Raleway/Raleway-Regular.ttf": "75b4247fdd3b97d0e3b8e07b115673c2",
@@ -39,8 +40,8 @@ const RESOURCES = {
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "6594914d3e9f19bae31c9aef5b17b178",
-"/": "6594914d3e9f19bae31c9aef5b17b178",
+"index.html": "87e8a262c50d7d9350a5d828a82418da",
+"/": "87e8a262c50d7d9350a5d828a82418da",
 "main.dart.js": "869277687d6d70085f22dad908933b16",
 "manifest.json": "b41eda55020ff62dd6dc45fa7b814fb9",
 "version.json": "2eeffefa494a136b8995aa932092b83c"
